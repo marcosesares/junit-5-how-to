@@ -1,6 +1,17 @@
 {
-  "total" : 5,
+  "total" : 7,
   "items" : [ {
+    "uid" : "78ccd80a2f8670768b3708b8739c547f",
+    "name" : "br.edu.mcesar.tests.LoginTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
     "uid" : "e215e129e96be146a63c36e27d21bdb7",
     "name" : "Product Service",
     "statistic" : {
@@ -10,6 +21,17 @@
       "passed" : 22,
       "unknown" : 0,
       "total" : 22
+    }
+  }, {
+    "uid" : "06de52e4e5943ebd4e2d464b87fc0ac2",
+    "name" : "Category Enum",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
     }
   }, {
     "uid" : "92b0c58665f756136a2ad99d9bf8adcd",
@@ -23,6 +45,17 @@
       "total" : 3
     }
   }, {
+    "uid" : "361dad6275b996dc87e68694f41b4a02",
+    "name" : "FindAllProductsQueryAdapterTest - Another way to inject mock",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
     "uid" : "c11d1f49ec68e47ef8e9ef64f6c2d9d0",
     "name" : "Client by Command Line Interface",
     "statistic" : {
@@ -30,17 +63,6 @@
       "broken" : 0,
       "skipped" : 0,
       "passed" : 2,
-      "unknown" : 0,
-      "total" : 2
-    }
-  }, {
-    "uid" : "361dad6275b996dc87e68694f41b4a02",
-    "name" : "FindAllProductsQueryAdapterTest - Another way to inject mock",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 1,
-      "passed" : 1,
       "unknown" : 0,
       "total" : 2
     }

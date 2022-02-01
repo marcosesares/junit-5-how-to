@@ -1,336 +1,42 @@
 {
   "uid" : "98d3104e051c652961429bf95fa0b5d6",
   "children" : [ {
-    "name" : "Product Service",
-    "children" : [ {
-      "name" : "Find all products using service",
-      "uid" : "6de36f66fff49924",
-      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
-      "status" : "passed",
-      "time" : {
-        "start" : 1613904931605,
-        "stop" : 1613904931638,
-        "duration" : 33
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "[1] 1, PLAYSTATION 1, 100.19",
-      "uid" : "50b62f3bdb976c09",
-      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
-      "status" : "passed",
-      "time" : {
-        "start" : 1613904931877,
-        "stop" : 1613904931903,
-        "duration" : 26
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "[2] 2, LIPITOR, 30.2",
-      "uid" : "43d389dd15ffddae",
-      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
-      "status" : "passed",
-      "time" : {
-        "start" : 1613904931920,
-        "stop" : 1613904931921,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "[3] 3, COROLLA, 20001",
-      "uid" : "f6a2aaf63497889",
-      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
-      "status" : "passed",
-      "time" : {
-        "start" : 1613904931930,
-        "stop" : 1613904931931,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "[4] 4, STAR WARS, 10",
-      "uid" : "1ce864948df6aaad",
-      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
-      "status" : "passed",
-      "time" : {
-        "start" : 1613904931939,
-        "stop" : 1613904931941,
-        "duration" : 2
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "[5] 5, IPAD, 100",
-      "uid" : "b99d8a62955ee172",
-      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
-      "status" : "passed",
-      "time" : {
-        "start" : 1613904931947,
-        "stop" : 1613904931948,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "[6] 6, MARIO BROS. FRANCHISE, 250",
-      "uid" : "9257ff98eae4f7b0",
-      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
-      "status" : "passed",
-      "time" : {
-        "start" : 1613904931953,
-        "stop" : 1613904931956,
-        "duration" : 3
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "[7] 7, MICHAEL JACKSON’S THRILLER, 20.99",
-      "uid" : "79a0b3eb36b78486",
-      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
-      "status" : "passed",
-      "time" : {
-        "start" : 1613904931961,
-        "stop" : 1613904931962,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "[8] 8, HARRY POTTER, 15.0",
-      "uid" : "e2fa957a0c1332a7",
-      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
-      "status" : "passed",
-      "time" : {
-        "start" : 1613904931968,
-        "stop" : 1613904931972,
-        "duration" : 4
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "[9] 9, IPHONE, 300.2",
-      "uid" : "dec7fb978bd8a79f",
-      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
-      "status" : "passed",
-      "time" : {
-        "start" : 1613904931978,
-        "stop" : 1613904931979,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "[10] 10, RUBIK’S CUBE, 30.1",
-      "uid" : "db6fe2d23bc62a9e",
-      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
-      "status" : "passed",
-      "time" : {
-        "start" : 1613904931983,
-        "stop" : 1613904931985,
-        "duration" : 2
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "Add new product using service",
-      "uid" : "aaa30ee5560725fb",
-      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
-      "status" : "passed",
-      "time" : {
-        "start" : 1613904931990,
-        "stop" : 1613904931997,
-        "duration" : 7
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "[1] 1, PLAYSTATION 1, 100.19",
-      "uid" : "456797545f5b748f",
-      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
-      "status" : "passed",
-      "time" : {
-        "start" : 1613904932006,
-        "stop" : 1613904932007,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "[2] 2, LIPITOR, 30.2",
-      "uid" : "8457a131637b35bc",
-      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
-      "status" : "passed",
-      "time" : {
-        "start" : 1613904932010,
-        "stop" : 1613904932013,
-        "duration" : 3
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "[3] 3, COROLLA, 20001",
-      "uid" : "6c660ee93f95da02",
-      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
-      "status" : "passed",
-      "time" : {
-        "start" : 1613904932016,
-        "stop" : 1613904932017,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "[4] 4, STAR WARS, 10",
-      "uid" : "25634c71cd9dedc7",
-      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
-      "status" : "passed",
-      "time" : {
-        "start" : 1613904932027,
-        "stop" : 1613904932028,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "[5] 5, IPAD, 100",
-      "uid" : "f2633513eed2f5ac",
-      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
-      "status" : "passed",
-      "time" : {
-        "start" : 1613904932039,
-        "stop" : 1613904932040,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "[6] 6, MARIO BROS. FRANCHISE, 250",
-      "uid" : "1579cb985b0878c3",
-      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
-      "status" : "passed",
-      "time" : {
-        "start" : 1613904932043,
-        "stop" : 1613904932044,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "[7] 7, MICHAEL JACKSON’S THRILLER, 20.99",
-      "uid" : "b6934fb05f07d468",
-      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
-      "status" : "passed",
-      "time" : {
-        "start" : 1613904932049,
-        "stop" : 1613904932051,
-        "duration" : 2
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "[8] 8, HARRY POTTER, 15.0",
-      "uid" : "7919bb422c8bdd97",
-      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
-      "status" : "passed",
-      "time" : {
-        "start" : 1613904932060,
-        "stop" : 1613904932061,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "[9] 9, IPHONE, 300.2",
-      "uid" : "75d41956db177fd3",
-      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
-      "status" : "passed",
-      "time" : {
-        "start" : 1613904932066,
-        "stop" : 1613904932067,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "[10] 10, RUBIK’S CUBE, 30.1",
-      "uid" : "d332ef7a2a621a46",
-      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
-      "status" : "passed",
-      "time" : {
-        "start" : 1613904932072,
-        "stop" : 1613904932072,
-        "duration" : 0
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    } ],
-    "uid" : "e215e129e96be146a63c36e27d21bdb7"
-  }, {
-    "name" : "com.luiz.actions.products.AddProductCommandAdapterShould",
-    "children" : [ {
-      "name" : "Product Adapter communicates with Service",
-      "uid" : "d4453cb9017228a6",
-      "parentUid" : "a4f910bce278e961f13bd3b8782c04a8",
-      "status" : "passed",
-      "time" : {
-        "start" : 1613904932114,
-        "stop" : 1613904932197,
-        "duration" : 83
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    } ],
-    "uid" : "a4f910bce278e961f13bd3b8782c04a8"
-  }, {
     "name" : "FindAllProductsQueryAdapterTest - Another way to inject mock",
     "children" : [ {
       "name" : "onlyForJava9And10()",
-      "uid" : "6bf133ee1f5d57fa",
+      "uid" : "417d40d3e077b641",
       "parentUid" : "361dad6275b996dc87e68694f41b4a02",
       "status" : "skipped",
       "time" : {
-        "start" : 1613904932217,
-        "stop" : 1613904932217,
-        "duration" : 0
+        "start" : 1643745847713,
+        "stop" : 1643745847714,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "onlyForJava8()",
+      "uid" : "97f4b647ba4b13fc",
+      "parentUid" : "361dad6275b996dc87e68694f41b4a02",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745847849,
+        "stop" : 1643745847859,
+        "duration" : 10
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "Product Query Adapter communicates with Service",
-      "uid" : "dc79709b61e5aa6a",
+      "uid" : "481e1b30a66db178",
       "parentUid" : "361dad6275b996dc87e68694f41b4a02",
       "status" : "passed",
       "time" : {
-        "start" : 1613904932225,
-        "stop" : 1613904932277,
-        "duration" : 52
+        "start" : 1643745847878,
+        "stop" : 1643745847978,
+        "duration" : 100
       },
       "flaky" : false,
       "newFailed" : false,
@@ -338,29 +44,46 @@
     } ],
     "uid" : "361dad6275b996dc87e68694f41b4a02"
   }, {
+    "name" : "com.luiz.actions.products.AddProductCommandAdapterShould",
+    "children" : [ {
+      "name" : "Product Adapter communicates with Service",
+      "uid" : "b55e3f971ea6f132",
+      "parentUid" : "a4f910bce278e961f13bd3b8782c04a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745848004,
+        "stop" : 1643745848037,
+        "duration" : 33
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a4f910bce278e961f13bd3b8782c04a8"
+  }, {
     "name" : "Client by Command Line Interface",
     "children" : [ {
       "name" : "Find all products",
-      "uid" : "8f8dabdb8ef323c7",
+      "uid" : "f51e66bb65ea6375",
       "parentUid" : "c11d1f49ec68e47ef8e9ef64f6c2d9d0",
       "status" : "passed",
       "time" : {
-        "start" : 1613904932923,
-        "stop" : 1613904932983,
-        "duration" : 60
+        "start" : 1643745848796,
+        "stop" : 1643745848831,
+        "duration" : 35
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "Add new product by CLI",
-      "uid" : "b021bf7b12a778fb",
+      "uid" : "51e598c2d30ecf55",
       "parentUid" : "c11d1f49ec68e47ef8e9ef64f6c2d9d0",
       "status" : "passed",
       "time" : {
-        "start" : 1613904933014,
-        "stop" : 1613904933040,
-        "duration" : 26
+        "start" : 1643745848838,
+        "stop" : 1643745848865,
+        "duration" : 27
       },
       "flaky" : false,
       "newFailed" : false,
@@ -371,45 +94,473 @@
     "name" : "Product Controller",
     "children" : [ {
       "name" : "Default",
-      "uid" : "2fb68a841a583107",
+      "uid" : "8639b8bc74033eb",
       "parentUid" : "92b0c58665f756136a2ad99d9bf8adcd",
       "status" : "passed",
       "time" : {
-        "start" : 1613904936458,
-        "stop" : 1613904936562,
-        "duration" : 104
+        "start" : 1643745852109,
+        "stop" : 1643745852225,
+        "duration" : 116
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "Fill all products",
-      "uid" : "33cd1ef72508df38",
+      "uid" : "608ebaa1486e41ef",
       "parentUid" : "92b0c58665f756136a2ad99d9bf8adcd",
       "status" : "passed",
       "time" : {
-        "start" : 1613904936574,
-        "stop" : 1613904936596,
-        "duration" : 22
+        "start" : 1643745852235,
+        "stop" : 1643745852262,
+        "duration" : 27
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "Add new product",
-      "uid" : "79354f4420474333",
+      "uid" : "f35d6c7a77746b4e",
       "parentUid" : "92b0c58665f756136a2ad99d9bf8adcd",
       "status" : "passed",
       "time" : {
-        "start" : 1613904936602,
-        "stop" : 1613904936705,
-        "duration" : 103
+        "start" : 1643745852272,
+        "stop" : 1643745852379,
+        "duration" : 107
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     } ],
     "uid" : "92b0c58665f756136a2ad99d9bf8adcd"
+  }, {
+    "name" : "Product Service",
+    "children" : [ {
+      "name" : "Find all products using service",
+      "uid" : "fc4f209b18095f54",
+      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852415,
+        "stop" : 1643745852418,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[1] 1, PLAYSTATION 1, 100.19",
+      "uid" : "d792d2651c701373",
+      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852521,
+        "stop" : 1643745852537,
+        "duration" : 16
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[2] 2, LIPITOR, 30.2",
+      "uid" : "25fa4e5c7dc1685b",
+      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852544,
+        "stop" : 1643745852545,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[3] 3, COROLLA, 20001",
+      "uid" : "47b4ca31f008162c",
+      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852554,
+        "stop" : 1643745852557,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[4] 4, STAR WARS, 10",
+      "uid" : "37ac452ab80a53a4",
+      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852562,
+        "stop" : 1643745852563,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[5] 5, IPAD, 100",
+      "uid" : "ca6b378fad516292",
+      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852567,
+        "stop" : 1643745852568,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[6] 6, MARIO BROS. FRANCHISE, 250",
+      "uid" : "b4d9b79e31a9a441",
+      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852573,
+        "stop" : 1643745852574,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[7] 7, MICHAEL JACKSON’S THRILLER, 20.99",
+      "uid" : "81d761b06a6fe419",
+      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852579,
+        "stop" : 1643745852580,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[8] 8, HARRY POTTER, 15.0",
+      "uid" : "362981ab2169976e",
+      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852584,
+        "stop" : 1643745852585,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[9] 9, IPHONE, 300.2",
+      "uid" : "bccb932b878bc9d6",
+      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852589,
+        "stop" : 1643745852590,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[10] 10, RUBIK’S CUBE, 30.1",
+      "uid" : "c30443d4e1fb84c2",
+      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852594,
+        "stop" : 1643745852596,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Add new product using service",
+      "uid" : "196cb721d3e7ba92",
+      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852602,
+        "stop" : 1643745852604,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[1] 1, PLAYSTATION 1, 100.19",
+      "uid" : "d4e91ac042394832",
+      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852611,
+        "stop" : 1643745852613,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[2] 2, LIPITOR, 30.2",
+      "uid" : "4645a525b7a39661",
+      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852617,
+        "stop" : 1643745852618,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[3] 3, COROLLA, 20001",
+      "uid" : "4b136c67aea713ea",
+      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852621,
+        "stop" : 1643745852622,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[4] 4, STAR WARS, 10",
+      "uid" : "91e33a9fdea31278",
+      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852624,
+        "stop" : 1643745852627,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[5] 5, IPAD, 100",
+      "uid" : "1ca423a79a9267d0",
+      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852632,
+        "stop" : 1643745852632,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[6] 6, MARIO BROS. FRANCHISE, 250",
+      "uid" : "523d0df44c397a8b",
+      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852636,
+        "stop" : 1643745852637,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[7] 7, MICHAEL JACKSON’S THRILLER, 20.99",
+      "uid" : "661cf5a0d6f749e6",
+      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852640,
+        "stop" : 1643745852642,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[8] 8, HARRY POTTER, 15.0",
+      "uid" : "ab05860ed588ad70",
+      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852646,
+        "stop" : 1643745852647,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[9] 9, IPHONE, 300.2",
+      "uid" : "eacd1c50205755b9",
+      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852653,
+        "stop" : 1643745852654,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[10] 10, RUBIK’S CUBE, 30.1",
+      "uid" : "966f860c321793e5",
+      "parentUid" : "e215e129e96be146a63c36e27d21bdb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852657,
+        "stop" : 1643745852658,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "e215e129e96be146a63c36e27d21bdb7"
+  }, {
+    "name" : "Category Enum",
+    "children" : [ {
+      "name" : "[1] ART",
+      "uid" : "728d5957b778a82",
+      "parentUid" : "06de52e4e5943ebd4e2d464b87fc0ac2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852667,
+        "stop" : 1643745852672,
+        "duration" : 5
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[2] FASHION",
+      "uid" : "cbb0080ea44f0959",
+      "parentUid" : "06de52e4e5943ebd4e2d464b87fc0ac2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852675,
+        "stop" : 1643745852677,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[3] ELECTRONICS",
+      "uid" : "bc7d93f66cd18bf5",
+      "parentUid" : "06de52e4e5943ebd4e2d464b87fc0ac2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852680,
+        "stop" : 1643745852681,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[4] ENTERTAINMENT",
+      "uid" : "42f71e522f8a2fb",
+      "parentUid" : "06de52e4e5943ebd4e2d464b87fc0ac2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852686,
+        "stop" : 1643745852686,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[5] HOME_AND_GARDEN",
+      "uid" : "15c6cf0097de4e3",
+      "parentUid" : "06de52e4e5943ebd4e2d464b87fc0ac2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852689,
+        "stop" : 1643745852690,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[6] MOTORS",
+      "uid" : "34662db3549865df",
+      "parentUid" : "06de52e4e5943ebd4e2d464b87fc0ac2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852693,
+        "stop" : 1643745852693,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[7] SPORTING",
+      "uid" : "eadc475e0170f37e",
+      "parentUid" : "06de52e4e5943ebd4e2d464b87fc0ac2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852697,
+        "stop" : 1643745852698,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[8] TOYS",
+      "uid" : "e71901a3ba75f1f2",
+      "parentUid" : "06de52e4e5943ebd4e2d464b87fc0ac2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852701,
+        "stop" : 1643745852702,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[9] OTHERS",
+      "uid" : "768d5bae2e0a32ad",
+      "parentUid" : "06de52e4e5943ebd4e2d464b87fc0ac2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643745852705,
+        "stop" : 1643745852705,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "06de52e4e5943ebd4e2d464b87fc0ac2"
+  }, {
+    "name" : "br.edu.mcesar.tests.LoginTest",
+    "children" : [ {
+      "name" : "LoginTest",
+      "uid" : "e0d42ed05f4b383e",
+      "parentUid" : "78ccd80a2f8670768b3708b8739c547f",
+      "status" : "broken",
+      "time" : {
+        "start" : 1643745855368,
+        "stop" : 1643745855368,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "78ccd80a2f8670768b3708b8739c547f"
   } ],
   "name" : "suites"
 }

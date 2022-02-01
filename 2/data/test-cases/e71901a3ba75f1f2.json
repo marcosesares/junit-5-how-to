@@ -1,0 +1,95 @@
+{
+  "uid" : "e71901a3ba75f1f2",
+  "name" : "[8] TOYS",
+  "fullName" : "com.luiz.domain.model.CategoryTest.getDescription",
+  "historyId" : "e026445b32a4e281623fa3a719160740",
+  "time" : {
+    "start" : 1643745852701,
+    "stop" : 1643745852702,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az193-555"
+  }, {
+    "name" : "thread",
+    "value" : "2942@fv-az193-555.ForkJoinPool-1-worker-1(11)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.luiz.domain.model.CategoryTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.luiz.domain.model.CategoryTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getDescription"
+  }, {
+    "name" : "suite",
+    "value" : "Category Enum"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "40c3af251784e44b",
+        "reportUrl" : "https://marcosesares.github.io/junit-5-how-to/1//#testresult/40c3af251784e44b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643741731303,
+          "stop" : 1643741731303,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "cd264b7a8dbf337d",
+        "reportUrl" : "https://luizgustavocosta.github.io/junit-5-how-to/18//#testresult/cd264b7a8dbf337d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614704217026,
+          "stop" : 1614704217027,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "433fabaae89508ef",
+        "reportUrl" : "https://luizgustavocosta.github.io/junit-5-how-to/17//#testresult/433fabaae89508ef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614110866742,
+          "stop" : 1614110866742,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "e71901a3ba75f1f2.json",
+  "parameterValues" : [ ]
+}

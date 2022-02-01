@@ -1,10 +1,10 @@
 [ {
   "name" : "GitHub Actions",
   "type" : "github",
-  "url" : "https://luizgustavocosta.github.io/junit-5-how-to",
+  "url" : "https://marcosesares.github.io/junit-5-how-to",
   "buildOrder" : 2,
-  "buildName" : "GitHub Actions Run #586249608",
-  "buildUrl" : "https://github.com/luizgustavocosta/junit-5-how-to/actions/runs/586249608",
+  "buildName" : "GitHub Actions Run #1780433931",
+  "buildUrl" : "https://github.com/marcosesares/junit-5-how-to/actions/runs/1780433931",
   "reportName" : "Allure Report with history",
-  "reportUrl" : "https://luizgustavocosta.github.io/junit-5-how-to/2/"
+  "reportUrl" : "https://marcosesares.github.io/junit-5-how-to/2/"
 } ]
