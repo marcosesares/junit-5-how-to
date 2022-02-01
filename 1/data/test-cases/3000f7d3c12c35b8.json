@@ -1,0 +1,86 @@
+{
+  "uid" : "3000f7d3c12c35b8",
+  "name" : "[2] FASHION",
+  "fullName" : "com.luiz.domain.model.CategoryTest.getDescription",
+  "historyId" : "b6baf1a982ab31b0ab6454621795064d",
+  "time" : {
+    "start" : 1643741731280,
+    "stop" : 1643741731282,
+    "duration" : 2
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az269-970"
+  }, {
+    "name" : "thread",
+    "value" : "2842@fv-az269-970.ForkJoinPool-1-worker-1(11)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.luiz.domain.model.CategoryTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.luiz.domain.model.CategoryTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getDescription"
+  }, {
+    "name" : "suite",
+    "value" : "Category Enum"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "40e99b15e9a10ab7",
+        "reportUrl" : "https://luizgustavocosta.github.io/junit-5-how-to/18//#testresult/40e99b15e9a10ab7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614704217003,
+          "stop" : 1614704217004,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "915970a553f36b5",
+        "reportUrl" : "https://luizgustavocosta.github.io/junit-5-how-to/17//#testresult/915970a553f36b5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614110866714,
+          "stop" : 1614110866715,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "3000f7d3c12c35b8.json",
+  "parameterValues" : [ ]
+}

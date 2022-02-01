@@ -1,4 +1,220 @@
 [ {
+  "buildOrder" : 1,
+  "reportUrl" : "https://marcosesares.github.io/junit-5-how-to/1/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 1,
+    "passed" : 39,
+    "unknown" : 0,
+    "total" : 40
+  }
+}, {
+  "buildOrder" : 18,
+  "reportUrl" : "https://luizgustavocosta.github.io/junit-5-how-to/18/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 1,
+    "passed" : 39,
+    "unknown" : 0,
+    "total" : 40
+  }
+}, {
+  "buildOrder" : 17,
+  "reportUrl" : "https://luizgustavocosta.github.io/junit-5-how-to/17/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 1,
+    "passed" : 39,
+    "unknown" : 0,
+    "total" : 40
+  }
+}, {
+  "buildOrder" : 16,
+  "reportUrl" : "https://luizgustavocosta.github.io/junit-5-how-to/16/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 1,
+    "passed" : 30,
+    "unknown" : 0,
+    "total" : 31
+  }
+}, {
+  "buildOrder" : 15,
+  "reportUrl" : "https://luizgustavocosta.github.io/junit-5-how-to/15/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 1,
+    "passed" : 30,
+    "unknown" : 0,
+    "total" : 31
+  }
+}, {
+  "buildOrder" : 14,
+  "reportUrl" : "https://luizgustavocosta.github.io/junit-5-how-to/14/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 1,
+    "passed" : 30,
+    "unknown" : 0,
+    "total" : 31
+  }
+}, {
+  "buildOrder" : 13,
+  "reportUrl" : "https://luizgustavocosta.github.io/junit-5-how-to/13/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 1,
+    "passed" : 30,
+    "unknown" : 0,
+    "total" : 31
+  }
+}, {
+  "buildOrder" : 12,
+  "reportUrl" : "https://luizgustavocosta.github.io/junit-5-how-to/12/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 1,
+    "passed" : 30,
+    "unknown" : 0,
+    "total" : 31
+  }
+}, {
+  "buildOrder" : 11,
+  "reportUrl" : "https://luizgustavocosta.github.io/junit-5-how-to/11/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 1,
+    "passed" : 30,
+    "unknown" : 0,
+    "total" : 31
+  }
+}, {
+  "buildOrder" : 10,
+  "reportUrl" : "https://luizgustavocosta.github.io/junit-5-how-to/10/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 1,
+    "passed" : 30,
+    "unknown" : 0,
+    "total" : 31
+  }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "https://luizgustavocosta.github.io/junit-5-how-to/9/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 1,
+    "passed" : 30,
+    "unknown" : 0,
+    "total" : 31
+  }
+}, {
+  "buildOrder" : 8,
+  "reportUrl" : "https://luizgustavocosta.github.io/junit-5-how-to/8/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 1,
+    "passed" : 29,
+    "unknown" : 0,
+    "total" : 30
+  }
+}, {
+  "buildOrder" : 7,
+  "reportUrl" : "https://luizgustavocosta.github.io/junit-5-how-to/7/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 1,
+    "passed" : 29,
+    "unknown" : 0,
+    "total" : 30
+  }
+}, {
+  "buildOrder" : 6,
+  "reportUrl" : "https://luizgustavocosta.github.io/junit-5-how-to/6/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 1,
+    "passed" : 29,
+    "unknown" : 0,
+    "total" : 30
+  }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "https://luizgustavocosta.github.io/junit-5-how-to/5/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 1,
+    "passed" : 29,
+    "unknown" : 0,
+    "total" : 30
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "https://luizgustavocosta.github.io/junit-5-how-to/4/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 1,
+    "passed" : 29,
+    "unknown" : 0,
+    "total" : 30
+  }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "https://luizgustavocosta.github.io/junit-5-how-to/3/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 1,
+    "passed" : 29,
+    "unknown" : 0,
+    "total" : 30
+  }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "https://luizgustavocosta.github.io/junit-5-how-to/2/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 1,
+    "passed" : 29,
+    "unknown" : 0,
+    "total" : 30
+  }
+}, {
   "data" : {
     "failed" : 0,
     "broken" : 0,

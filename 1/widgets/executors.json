@@ -1,1 +1,10 @@
-[ ]
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://marcosesares.github.io/junit-5-how-to",
+  "buildOrder" : 1,
+  "buildName" : "GitHub Actions Run #1780137842",
+  "buildUrl" : "https://github.com/marcosesares/junit-5-how-to/actions/runs/1780137842",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://marcosesares.github.io/junit-5-how-to/1/"
+} ]

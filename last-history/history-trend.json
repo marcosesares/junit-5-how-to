@@ -1,4 +1,16 @@
 [ {
+  "buildOrder" : 1,
+  "reportUrl" : "https://marcosesares.github.io/junit-5-how-to/1/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 1,
+    "passed" : 39,
+    "unknown" : 0,
+    "total" : 40
+  }
+}, {
   "buildOrder" : 18,
   "reportUrl" : "https://luizgustavocosta.github.io/junit-5-how-to/18/",
   "reportName" : "Allure Report with history",
