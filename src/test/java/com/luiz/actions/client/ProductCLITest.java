@@ -73,7 +73,7 @@ class ProductCLITest {
 
         assertAll(() -> {
             assertNotNull(productResponse.getId());
-//            assertNotNull(productResponse.getTitle());
+            assertNotNull(productResponse.getTitle());
             assertNotNull(productResponse.getPrice());
             assertNotNull(productResponse.getTimestampAt());
         });
